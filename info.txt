@@ -1,4 +1,4 @@
--- P3til SMP
+-- P3til SMP hahaha
 --   Java & Bedrock SMP
 --   Max players of 128
 
