@@ -1,1 +1,29 @@
-# override
+-- P3til SMP
+--   Java & Bedrock SMP
+--   Max players of 128
+
+-- Java Edition IP: smp.p3til.com
+-- Bedrock Edition: LsqTVMpLmqgKWDg
+
+-- Thank you for joining!
+
+If you're having trouble playing minecraft
+please read this!
+
+// Qustions
+// 1
+Q: I put my microsoft account in and it doesn't work!
+
+A: Make sure you do it on 'GUEST' wifi and use a
+microsoft account that HAS minecraft Java bought and
+setup! If it isn't setup go to 'https://minecraft.net'
+but on your own time.
+
+// 2
+Q: Java.. it isn't working!
+
+A: You can find Java in the folder with your instances
+of minecraft! So go in prism launcher and go to settings
+where you can find Java and click 'Browse' it should bring
+to a file explorer where you should see java so click
+Java > idk-21.0.9+10 > Contents > Home > bin > java
