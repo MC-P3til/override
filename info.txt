@@ -29,7 +29,7 @@ to a file explorer where you should see java so click
 Java > idk-21.0.9+10 > Contents > Home > bin > java
 
 //3
-Q: It is saying it isn't verified by a proper developer
+Q: It is saying it isn't verified by a developer
 
 A: If it is saying this, there is a quick fix! All you
 need to do is open the folder called 'Trouble Verifying?'
