@@ -27,3 +27,11 @@ of minecraft! So go in prism launcher and go to settings
 where you can find Java and click 'Browse' it should bring
 to a file explorer where you should see java so click
 Java > idk-21.0.9+10 > Contents > Home > bin > java
+
+//3
+Q: It is saying it isn't verified by a proper developer
+
+A: If it is saying this, there is a quick fix! All you
+need to do is open the folder called 'Trouble Verifying?'
+and you need to drag 'drag this.sh' into 'into this.app'
+Very convenient names!
