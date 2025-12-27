@@ -32,6 +32,13 @@ Java > idk-21.0.9+10 > Contents > Home > bin > java
 Q: It is saying it isn't verified by a developer
 
 A: If it is saying this, there is a quick fix! All you
-need to do is open the folder called 'Trouble Verifying?'
+need to do is open the folder called 'Trouble Launching?'
 and you need to drag 'drag this.sh' into 'into this.app'
 Very convenient names!
+
+//4
+Q: The app isn't opening and I CAN'T PLAY MINECRAFT
+
+A: The solution is a quick fix! All youneed to do is open
+the folder called 'Trouble Launching?'and you need to drag
+'drag this.sh' into 'into this.app'. Very convenient names!
