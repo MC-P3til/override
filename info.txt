@@ -14,7 +14,7 @@ please read this!
 // 1
 Q: I put my microsoft account in and it doesn't work!
 
-A: Make sure you do it on 'GUEST' wifi and use a
+A: Make sure you do it at HOME and use a
 microsoft account that HAS minecraft Java bought and
 setup! If it isn't setup go to 'https://minecraft.net'
 but on your own time.
